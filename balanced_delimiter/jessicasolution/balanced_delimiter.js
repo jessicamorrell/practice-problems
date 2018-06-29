@@ -1,4 +1,5 @@
-
+//Checks if the string parameter is a balanced delimiter
+//Parameters => str:string
 function delimiterCheck(str) {
     
     var isDelimiter = true;

@@ -1,4 +1,5 @@
-
+//Rotates array parameter by integar parameter
+//Parameters => arr:array, steps:integar
 function rotateArray(arr, steps) {
     var sliceIndex = (arr.length)-steps;
     
